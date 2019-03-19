@@ -1,7 +1,7 @@
 import { html, Polymer } from "@polymer/polymer/polymer-legacy.js";
 import { pathFromUrl } from "@polymer/polymer/lib/utils/resolve-url.js";
 import "@lrnwebcomponents/es-global-bridge/es-global-bridge.js";
-import * as md5 from "./lib/md5.min.js";
+// import * as md5 from "./lib/md5.min.js";
 
 /**
 `paper-avatar`
